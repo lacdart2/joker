@@ -1,6 +1,6 @@
 {
-  "name": "clear",
-  "version": "0.1.0",
+  "name": "joker",
+  "version": "0.0.4",
   "description": "example",
   "type": "module",
   "main": "src/index.js",
@@ -29,3 +29,4 @@
     "give-me-a-joke": "^0.5.1"
   }
 }
+
