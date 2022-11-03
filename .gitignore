@@ -1,2 +1,6 @@
+# Mac OS System file
+.DS_Store
+
+
 #npm modules to ignore 
 /node_modules
