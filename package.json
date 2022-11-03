@@ -1,6 +1,6 @@
 {
   "name": "lakhdar-joker",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "example",
   "type": "module",
   "main": "src/index.js",
@@ -29,4 +29,3 @@
     "give-me-a-joke": "^0.5.1"
   }
 }
-
