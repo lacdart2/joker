@@ -1,6 +1,6 @@
 {
   "name": "lakhdar-joker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "example",
   "type": "module",
   "main": "src/index.js",
@@ -40,11 +40,11 @@
       "eslint --cache --fix",
       "prettier --write"
     ],
-  "*.html": [
-    "prettier --write"
-  ],
-  "*.scss": [
-    "prettier --write"
-  ]
+    "*.html": [
+      "prettier --write"
+    ],
+    "*.scss": [
+      "prettier --write"
+    ]
   }
 }
